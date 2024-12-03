@@ -1,16 +1,9 @@
-# traffic_management_system
+ traffic_management_system
 
-A new Flutter project.
+![WhatsApp Image 2024-12-03 at 22 30 53_bad33558](https://github.com/user-attachments/assets/e26c48a2-7ff8-4180-8bff-d2de5b8020da)
 
-## Getting Started
+![WhatsApp Image 2024-12-03 at 22 30 54_f1a0111b](https://github.com/user-attachments/assets/fc7ae30d-c9ba-4d8e-8392-4364acd7ff28)
 
-This project is a starting point for a Flutter application.
+![WhatsApp Image 2024-12-03 at 22 30 55_0d76440f](https://github.com/user-attachments/assets/c218de8f-b6d2-4e97-9288-55422a14db1c)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
